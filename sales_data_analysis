@@ -1,0 +1,6 @@
+import padas as pd
+import matplotlib.pyplot as plt
+
+## Reading the sales data
+
+df = pd.read_csv('sales_data.csv')
